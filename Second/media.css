@@ -1,0 +1,23 @@
+@media (max-width: 920px) {
+  #header .navbar-brand {
+    font-size: smaller;
+  }
+  #home {
+    flex-wrap: wrap;
+  }
+  #service {
+    flex-wrap: wrap;
+  }
+  #about .d-flex {
+    flex-wrap: wrap;
+  }
+  #team {
+    flex-wrap: wrap;
+  }
+  #specialService .d-flex {
+    flex-wrap: wrap;
+  }
+  #form {
+    width: 250px;
+  }
+}
